@@ -2,6 +2,12 @@
 
 A fully-featured, modern CRM dashboard built with React, Vite, Tailwind CSS, and Work Sans font.
 
+## 🌐 Live Demo
+
+**[🚀 Live Website](https://temple-website-blush.vercel.app)** *[Replace with your Vercel URL after deployment]*
+
+**[📁 GitHub Repository](https://github.com/bamaniyamilan/temple-website)**
+
 ## Features
 
 ### 🎯 Core Features
